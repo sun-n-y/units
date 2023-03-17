@@ -1,11 +1,14 @@
 /* rem */
 
-div {
-  font-size: 10px;
-}
-.absolute {
+html {
   font-size: 32px;
 }
+div {
+  font-size: 100px;
+}
+.absolute {
+  font-size: 64px;
+}
 .relative {
-  font-size: 2em;
+  font-size: 2rem;
 }
