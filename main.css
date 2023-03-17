@@ -1,1 +1,9 @@
 /* pixels */
+
+h1 {
+  font-size: 60px;
+  background: blue;
+  color: white;
+  width: 200px;
+  height: 500px;
+}
