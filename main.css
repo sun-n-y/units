@@ -1,1 +1,16 @@
 /* calc funciton */
+
+* {
+  margin: 0;
+}
+
+.navbar {
+  background: blue;
+  height: 100px;
+  color: white;
+  font-size: 3rem;
+}
+.banner {
+  background: red;
+  height: calc(100vh - 100px);
+}
