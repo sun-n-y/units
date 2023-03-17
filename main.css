@@ -1,1 +1,5 @@
-
+/* default browser styles and google chrome dev tools */
+h2 {
+  color: red;
+  font-size: 60px;
+}
