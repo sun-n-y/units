@@ -1,1 +1,12 @@
 /* percent */
+
+.outer {
+  width: 500px;
+  height: 500px;
+  background: black;
+}
+.inner {
+  width: 10%;
+  height: 50%;
+  background: blue;
+}
